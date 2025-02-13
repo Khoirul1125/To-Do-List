@@ -146,3 +146,6 @@ php artisan serve
 - **Endpoint:** `/api/items/{id}/toggle`
 - **Headers:** `Authorization: Bearer {token}`
 - **Response:** Item dengan status `completed: true/false`
+
+## Lisensi
+Muhammad Khoirul Rasyid
