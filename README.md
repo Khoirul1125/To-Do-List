@@ -6,8 +6,9 @@ Aplikasi To-Do List sederhana menggunakan Laravel dan PostgreSQL, dengan autenti
 ## Instalasi
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/repository.git
-cd repository
+git clone https://github.com/Khoirul1125/To-Do-List.git
+cd To-Do-List
+git checkout master
 ```
 ### 2. Install Dependencies
 ```bash
